@@ -1,0 +1,6 @@
+# Never upload secrets or installed packages
+.env
+.env.local
+node_modules/
+dist/
+.DS_Store
